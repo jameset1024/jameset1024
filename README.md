@@ -1,8 +1,11 @@
-<h1 style="text-align: center">Welcome To My GitHub Profile 🥃</h1>
+# Welcome To My GitHub Profile 🥃
 
 I'm glad you could make it to my profile. If you want to learn more about me besides what's here, check out my [portfolio](https://erikjamesthomas.com). Below, you'll find a few tidbits about what I do and have been up to. 
 
-<h3 style="text-align:center">Follow Me On Social Media</h3>
+### Follow Me On Social Media
+![https://www.linkedin.com/in/erikjamesthomas/](https://raw.githubusercontent.com/jameset1024/jameset1024/d8dea4b721a120eed9c7a5e0adab291f28e39724/assets/linkedin.png)
+![https://www.instagram.com/jameset1024](https://raw.githubusercontent.com/jameset1024/jameset1024/d8dea4b721a120eed9c7a5e0adab291f28e39724/assets/instagram.png)
+![https://twitter.com/jameset1024/](https://raw.githubusercontent.com/jameset1024/jameset1024/d8dea4b721a120eed9c7a5e0adab291f28e39724/assets/twitter.png)
 
 
 <!--
