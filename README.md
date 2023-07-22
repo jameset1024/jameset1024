@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 style="text-align: center">Welcome To My GitHub Profile 🥃</h1>
+
+I'm glad you could make it to my profile. If you want to learn more about me besides what's here, check out my [portfolio](https://erikjamesthomas.com). Below, you'll find a few tidbits about what I do and have been up to. 
+
+<h3 style="text-align:center">Follow Me On Social Media</h3>
+
 
 <!--
 **jameset1024/jameset1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
