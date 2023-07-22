@@ -3,9 +3,9 @@
 I'm glad you could make it to my profile. If you want to learn more about me besides what's here, check out my [portfolio](https://erikjamesthomas.com). Below, you'll find a few tidbits about what I do and have been up to. 
 
 ### Follow Me On Social Media
-![https://www.linkedin.com/in/erikjamesthomas/](https://raw.githubusercontent.com/jameset1024/jameset1024/d8dea4b721a120eed9c7a5e0adab291f28e39724/assets/linkedin.png)
-![https://www.instagram.com/jameset1024](https://raw.githubusercontent.com/jameset1024/jameset1024/d8dea4b721a120eed9c7a5e0adab291f28e39724/assets/instagram.png)
-![https://twitter.com/jameset1024/](https://raw.githubusercontent.com/jameset1024/jameset1024/d8dea4b721a120eed9c7a5e0adab291f28e39724/assets/twitter.png)
+![https://www.linkedin.com/in/erikjamesthomas/](https://raw.githubusercontent.com/jameset1024/jameset1024/a0c999ec4c0bcdd23581dc21c1a1e9e5d2e6c463/assets/linkedin.png)
+![https://www.instagram.com/jameset1024](https://raw.githubusercontent.com/jameset1024/jameset1024/a0c999ec4c0bcdd23581dc21c1a1e9e5d2e6c463/assets/instagram.png)
+![https://twitter.com/jameset1024/](https://raw.githubusercontent.com/jameset1024/jameset1024/a0c999ec4c0bcdd23581dc21c1a1e9e5d2e6c463/assets/twitter.png)
 
 
 <!--
