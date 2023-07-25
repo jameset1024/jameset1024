@@ -20,5 +20,5 @@ module.exports = ( blog ) => {
     `
 
     post = `<style>${SVGStyles}</style>` + DIV(post);
-    return SVG('846','300', post);
+    return SVG('846','150', post);
 }
