@@ -1,3 +1,3 @@
 module.exports = (html) => {
-  return `<div style="display: flex; flex-wrap: wrap">${html}</div>`;
+  return `<div style="display: flex; flex-wrap: wrap; padding: 5px;">${html}</div>`;
 }
