@@ -1,11 +1,15 @@
 # Welcome To My GitHub Profile 🥃
 
-I'm glad you could make it to my profile. If you want to learn more about me besides what's here, check out my [portfolio](https://erikjamesthomas.com). Below, you'll find a few tidbits about what I do and have been up to. 
+I'm glad you could make it to my profile. If you want to learn more about me besides what's here, check out my [portfolio](https://erikjamesthomas.com). Below, you'll find a few tidbits about what I do and have been up to.
+
+## Some of the things I regularly use
+![Skills Icons](https://github-portfolio-iota.vercel.app/skills)
+
 
 ### Follow Me On Social Media
-![https://www.linkedin.com/in/erikjamesthomas/](https://raw.githubusercontent.com/jameset1024/jameset1024/main/assets/linkedin.png)
-![https://www.instagram.com/jameset1024](https://raw.githubusercontent.com/jameset1024/jameset1024/main/assets/instagram.png)
-![https://twitter.com/jameset1024/](https://raw.githubusercontent.com/jameset1024/jameset1024/main/assets/twitter.png)
+[![LinkedIn Icon](https://raw.githubusercontent.com/jameset1024/jameset1024/main/assets/linkedin.png)](https://www.linkedin.com/in/erikjamesthomas/)
+[![Instagram Icon](https://raw.githubusercontent.com/jameset1024/jameset1024/main/assets/instagram.png)](https://www.instagram.com/jameset1024)
+[![Twitter Icon](https://raw.githubusercontent.com/jameset1024/jameset1024/main/assets/twitter.png)](https://twitter.com/jameset1024/)
 
 
 <!--
