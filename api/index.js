@@ -1,10 +1,10 @@
 const express = require("express");
-const Skills = require("./src/skills");
+const Skills = require("../src/skills");
 
 const app = express();
 
 
-app.get('/skills', ( req, res ) => {
+app.get('/api/skills', ( req, res ) => {
   res.setHeader('Content-Type', 'image/svg+xml');
 
   const skills = Skills();

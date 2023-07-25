@@ -1,6 +1,6 @@
-const DIV = require("./../../src/components/div");
-const { Data } = require("./../../src/skills/config/data");
-const SVG = require("./../utils/svg");
+const DIV = require("../components/div");
+const { Data } = require("./config/data");
+const SVG = require("../utils/svg");
 const simpleIcon = require('simple-icons');
 const { SVGStyles } = require("./config/styles");
 

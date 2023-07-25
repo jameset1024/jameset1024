@@ -3,7 +3,7 @@
 I'm glad you could make it to my profile. If you want to learn more about me besides what's here, check out my [portfolio](https://erikjamesthomas.com). Below, you'll find a few tidbits about what I do and have been up to.
 
 ## Some of the things I regularly use
-![Skills Icons](https://github-portfolio-iota.vercel.app/skills)
+![Skills Icons](https://github-portfolio-iota.vercel.app/api/skills)
 
 
 ### Follow Me On Social Media
