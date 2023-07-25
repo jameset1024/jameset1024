@@ -9,12 +9,11 @@ module.exports = ( blog ) => {
 
     let post = `
         <div class="blog-wrapper">
-            <div class="blog-image">
-                <img src="${blog.thumbnail}" alt="${blog.title}" />
-            </div>
-            <div class="blog-info">
+            <div class="blog-title">
                 <h2>${blog.title}</h2>
                 <div class="blog-meta">${monthDisplay(date.getMonth())} ${date.getDate()}, ${date.getFullYear()} | <span>${blog.categories[0]}</span></div>
+            </div>
+            <div class="blog-info">
                 <div class="blog-excerpt">${content}...</div>
             </div>
         </div>
