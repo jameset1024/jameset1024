@@ -73,13 +73,7 @@ const Data = [
         name: "Angular",
         icon: "Angularjs",
         color: "#E23237"
-    },
-    {
-        name: "React",
-        icon: "React",
-        color: "#61DAFB"
-    },
-
+    }
 ];
 
 module.exports = {Data};
