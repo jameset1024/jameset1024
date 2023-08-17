@@ -71,7 +71,7 @@ const Data = [
     },
     {
         name: "Angular",
-        icon: "AngularJS",
+        icon: "Angularjs",
         color: "#E23237"
     },
     {
