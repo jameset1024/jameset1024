@@ -63,7 +63,23 @@ const Data = [
         name: "Typescript",
         icon: "Typescript",
         color: "#3178C6"
-    }
+    },
+    {
+        name: "Python",
+        icon: "Python",
+        color: "#3776AB"
+    },
+    {
+        name: "Angular",
+        icon: "AngularJS",
+        color: "#E23237"
+    },
+    {
+        name: "React",
+        icon: "React",
+        color: "#61DAFB"
+    },
+
 ];
 
 module.exports = {Data};
